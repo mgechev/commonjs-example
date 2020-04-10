@@ -1,0 +1,15 @@
+{
+  "name": "commonjs-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Minko Gechev <mgechev@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.15"
+  }
+}
